@@ -1,0 +1,46 @@
+
+[
+    {
+        "id":1,
+        "title":"Password generator",
+        "description":"this is the array used for screenshots for the projects i worked on",
+        "live":"",
+        "image":"/assets/screenshot/portfolior.png"
+    },
+    {
+        "id":1,
+        "title":"React Portfolio",
+        "description":"lotrem",
+        "live":"",
+        "image":"/assets/screenshot/portfolior.png"
+    },
+    {
+        "id":1,
+        "title":"React Portfolio",
+        "description":"lotrem",
+        "live":"",
+        "image":"/assets/screenshot/portfolior.png"
+    },
+    {
+        "id":1,
+        "title":"React Portfolio",
+        "description":"lotrem",
+        "live":"",
+        "image":"/assets/screenshot/portfolior.png"
+    },
+    {
+        "id":1,
+        "title":"React Portfolio",
+        "description":"lotrem",
+        "live":"",
+        "image":"/assets/screenshot/portfolior.png"
+    },
+    {
+        "id":1,
+        "title":"React Portfolio",
+        "description":"lotrem",
+        "live":"",
+        "image":"/assets/screenshot/portfolior.png"
+    }
+
+]
